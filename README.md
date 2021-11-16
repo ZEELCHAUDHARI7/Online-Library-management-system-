@@ -1,0 +1,2 @@
+# Online-Library-management-system-
+The main feature of this LMS is that all the books available in the library can be displayed in a list so that students and Teachers need not roam through the entire library to find a book. Additionally, the application effectively maintains the details of users/students to whom books have been issued; it also records the issued date and returns date. We have used PHP technology for building this LMS Project. We have used the LARAVEL Framework of PHP.As we know that the LARAVEL is the most popular framework among all the frameworks.
